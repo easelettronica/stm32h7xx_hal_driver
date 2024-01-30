@@ -6,6 +6,7 @@ file(GLOB HAL_SRC_FILES
     "${CMAKE_CURRENT_LIST_DIR}/Src/stm32h7xx_hal.c"
     "${CMAKE_CURRENT_LIST_DIR}/Src/stm32h7xx_hal_cortex.c"
     "${CMAKE_CURRENT_LIST_DIR}/Src/stm32h7xx_hal_rcc.c"
+    "${CMAKE_CURRENT_LIST_DIR}/Src/stm32h7xx_hal_rcc_ex.c"
     "${CMAKE_CURRENT_LIST_DIR}/Src/stm32h7xx_hal_gpio.c"
 )
 
